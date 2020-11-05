@@ -3,7 +3,7 @@ using namespace std;
 #include<vector>
 
 
-//1
+//1.
 //int main()
 //{
 //	int n, m;
@@ -58,7 +58,7 @@ using namespace std;
 
 
 #include<iostream>
-#include<string>
+#include<cstring>
 using namespace std;
 
 const int M = 2;
